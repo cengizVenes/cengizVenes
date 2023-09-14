@@ -3,14 +3,12 @@
 <h3 align="center">I am an aspiring frontend developer</h3>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width = 150px></picture>
 <br>
-
 - A passionate Front-end developer.
 - Currently learning Web Development with javascript
+<br>
 
-<br><br>
 
 
 ## 🌐 Socials:
