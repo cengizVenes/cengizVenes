@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">I am an aspiring frontend developer</h3>
+<br>
+<h5 align="center">
+I am a 4th high school student and an excited intern in front-end development. My interest in web development inspires my journey in creating the user interface of websites and applications. I create user-friendly web pages using core technologies such as HTML, CSS and JavaScript. Additionally, I am improving my skills in developing interactive and dynamic web applications by learning modern web frameworks and libraries. By following the innovations and best practices in the front-end world, I aim to constantly improve myself in my own projects and in my internship position. I strive to ensure users have great web experiences and look forward to gaining more experience in this area.</h5>
+
+<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width = 150px></picture>
@@ -8,7 +13,6 @@
 - A passionate Front-end developer.
 - Currently learning Web Development with javascript
 <br>
-
 
 
 ## 🌐 Socials:
